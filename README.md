@@ -1,5 +1,5 @@
 # Remote-Controller
-A Remote Controller For An Arduino Robot https://ali.js.org/RC1/
+A Remote Controller For An Arduino Robot https://ali.js.org/RC
 
 ![Screenshot](./Screenshot.jpg)
 
